@@ -18,3 +18,7 @@ These changes will be used to test for resolve conflict
 ## Victory Attempt
 
 This is the final and I know that I will be successful in resolving conflicts this time. 
+
+## Very Irritated Attemot 
+
+This is the last attempt for the day, and I really pray that this works. If not, I will go ahaead and have tea and calm myself down, and relax, and try again tomorrow. 
