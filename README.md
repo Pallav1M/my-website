@@ -18,3 +18,7 @@ These changes will be used to test for resolve conflict
 ## Victory Attempt
 
 This is the final and I know that I will be successful in resolving conflicts this time. 
+
+## Irritated Attempt 
+
+This is probably the last time I am going to try today. 
