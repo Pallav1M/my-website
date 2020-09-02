@@ -19,6 +19,8 @@ These changes will be used to test for resolve conflict
 
 This is the final and I know that I will be successful in resolving conflicts this time. 
 
+<<<<<<< HEAD
 ## Very Irritated Attemot 
 
-This is the last attempt for the day, and I really pray that this works. If not, I will go ahaead and have tea and calm myself down, and relax, and try again tomorrow. 
+This is probably the last time I am going to try today. 
+>>>>>>> 3ed859171b05b70e648f06474e8a06b90df7a382
