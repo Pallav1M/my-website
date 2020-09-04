@@ -24,3 +24,7 @@ This is the final and I know that I will be successful in resolving conflicts th
 
 This is probably the last time I am going to try today. 
 >>>>>>> 3ed859171b05b70e648f06474e8a06b90df7a382
+
+## Purpose 
+
+The purpose of this file is to provide examples on how to use the Git and GitHub together. 
