@@ -28,3 +28,7 @@ This is probably the last time I am going to try today.
 ## Purpose 
 
 The purpose of this file is to provide examples on how to use the Git and GitHub together. 
+
+## Getting Started 
+
+To get strated with this project, just 'clone' this repository. 
